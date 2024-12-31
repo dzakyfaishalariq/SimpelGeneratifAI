@@ -1,35 +1,18 @@
 # GenratifAISimpel
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplikasi yang dibuat menggunakan `vue 3 js + langchain js`, aplikasi ini merupakan simple promp ai yang dapat menjawab apapun pertannyaan dengan setingan AI nya adalah seorang ilmuan yang mencapai rana S3 doktoral, maka jawabannya adalah sangat akademis serta menggunakan bahasa indonesia yang baik dan benar.
 
-## Recommended IDE Setup
+## Alat - alat 
+Aplikasi ini dibuat dari beberapa pondasi seperti:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+1. vue 3 js
+2. langchain js
+3. GROQ generatif AI
 
-## Customize configuration
+Aplikasi dapat diakses di link berikut ini:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+projek : [generatif-ais-impel.vercel.app](https://genratif-ais-impel.vercel.app/)
 
-## Project Setup
+gambar :
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+![image](https://github.com/user-attachments/assets/3698190f-38c2-49e3-af57-861ce7e832d8)
